@@ -1,0 +1,49 @@
+thead{
+    background-color: rgb(17, 117, 204);
+    border: 3px solid rgb(155, 13, 100);
+}
+tbody{
+    background-color: rgb(39, 204, 17);
+   
+}
+footer{
+    background-color: rgb(91, 194, 163);
+    border: 2px solid rgb(77, 14, 14);
+}
+td{
+    border: 2px solid rgb(57, 7, 150);
+}
+b {
+    color: rgb(152, 168, 5);
+    background-color: rgb(214, 16, 82);
+}
+a{
+    background-color: rgb(182, 185, 0);
+    color: rgb(119, 0, 16);
+}
+
+aside {
+    border: 22px solid rgb(87, 45, 81);
+}
+fieldset{
+    border: 10px solid rgb(184, 12, 12);
+    background-color: rgb(4, 184, 160) 255);
+}
+body {
+    background-image: url('C:\\Users\\ranjan\\OneDrive\\Pictures\\.trashed-1711793636-IMG_20240229_154351.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+}
+form{
+    background-color: darkgray;
+    color: crimson;
+}
+input
+{
+    background-color: rgb(11, 184, 20);
+    color: darkmagenta;
+    border-radius: 5px soloid rgb(70, 126, 172);
+
+}
